@@ -1,5 +1,3 @@
-Below is the whitepaper converted into Markdown format, maintaining its structure and content for easy readability and use in Markdown-supported environments.
-markdown
 # Whitepaper: Leveraging Audiences in Salesforce Experience Cloud for Personalized Digital Experiences
 
 
@@ -75,4 +73,3 @@ Audiences in Salesforce Experience Cloud revolutionizes how organizations delive
 Ready to transform your digital portal? Explore Audiences in Salesforce Experience Cloud today. Contact your Salesforce administrator or visit the [Salesforce Help documentation](https://help.salesforce.com) for step-by-step guidance on getting started.
 
 ---
-This Markdown version is clean, portable, and ready for use in platforms like GitHub, documentation tools, or any Markdown renderer. Let me know if you'd like further tweaks!
