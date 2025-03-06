@@ -1,5 +1,9 @@
 # Salesforce List View Best Practices Whitepaper
 
+![Podcast](https://mohan-chinnappan-n5.github.io/webm/player2.html?v=https://raw.githubusercontent.com/mohan-chinnappan-n5/whitepapers/main/list-views/list-views-podcast.wav.webm)
+
+![chart](img/list-view-chart.png)
+
 ## Introduction
 Salesforce list views are powerful tools that allow users to filter, display, and manage records efficiently within the platform. When used effectively, list views can streamline workflows, enhance visibility into critical data, and improve collaboration across teams. This whitepaper provides best practices for creating, managing, and utilizing list views to maximize their potential in Salesforce.
 
