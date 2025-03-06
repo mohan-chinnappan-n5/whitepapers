@@ -1,6 +1,6 @@
 # Salesforce List View Best Practices Whitepaper
 
-![Podcast](https://mohan-chinnappan-n5.github.io/webm/player2.html?v=https://raw.githubusercontent.com/mohan-chinnappan-n5/whitepapers/main/list-views/list-views-podcast.wav.webm)
+[Podcast](https://mohan-chinnappan-n5.github.io/webm/player2.html?v=https://raw.githubusercontent.com/mohan-chinnappan-n5/whitepapers/main/list-views/list-views-podcast.wav.webm)
 
 ![chart](img/list-view-chart.png)
 
